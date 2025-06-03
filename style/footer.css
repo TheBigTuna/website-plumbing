@@ -1,0 +1,29 @@
+#footerContainer{
+    /* background-color: #ffffff; */
+    padding: 2rem;
+    background-color: #e6e6e6
+}
+
+#footerContainer .list-group-item{
+    background-color: #e6e6e6;
+}
+/* 
+#footerCompanyTitle, #footerCompanySubtitle, #footerCompanyPhoneNumber, #footerSmallText{
+    text-align: center;
+} */
+
+#footerSmallText{
+    color: #7c7c7c;
+}
+
+#footerContainer li a h6{
+    color: black;
+}
+/* #footerContainer li a:active{
+    color: #777 !important;
+} */
+/* #footerContainer li a:hover{
+    color: #6495ED	 !important;
+} */
+
+
