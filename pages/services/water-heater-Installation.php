@@ -82,13 +82,55 @@
                 <p class="servicesTexts">Fast-heating and cost-effective, gas water heaters are a popular option for many Detroit-area homes.</p>
             </div>
                 <div class="col-12 col-xl-4">
-                    <div class="card mb-5 mb-lg-0">
+                    <div class="card mb-lg-0">
+                        <div class="card-body">
+                            <img src="../../images/concrete-driveway-3.jpg" width="100%;"/>
+                        </div>
+                    </div>
+                    <div class="card mt-5 mb-lg-0">
                         <div class="card-body">
                             <img src="../../images/concrete-driveway-3.jpg" width="100%;"/>
                         </div>
                     </div>
                 </div>
             </div>
+            <section class="pricing py-5">
+                <div class="row">
+                    <div class="col-xl-4">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <h5 class="card-title text-uppercase text-center">Always transparent</h5>
+                                <hr>
+                                <p>
+                                    We provide upfront pricing, so you know what you will pay.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <h5 class="card-title text-uppercase text-center">Locally Owned Business</h5>
+                                <hr>
+                                <p>
+                                    We're locally owned and stay very involved in our community.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4">
+                        <div class="card mb-5 mb-lg-0">
+                            <div class="card-body">
+                                <h5 class="card-title text-uppercase text-center">Always Available</h5>
+                                <hr>
+                                <p>
+                                    We offer emergency appointments and are available 24/7.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
         </div>
     </div>
     <div class="row"></div>

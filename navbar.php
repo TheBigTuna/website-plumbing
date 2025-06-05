@@ -56,6 +56,8 @@ include("php/page-info.php");
 										<a class="dropdown-item" href="/pages/services/emergency-services.php">Emergency Services</a>
 										<a class="dropdown-item" href="/pages/services/emergency-services.php">Repairs</a>										<a class="dropdown-item" href="/pages/services/emergency-services.php">Repairs</a>
 										<a class="dropdown-item" href="/pages/services/water-heater-installation.php">Water Heater Installation</a>
+										<a class="dropdown-item" href="/pages/services/water-heater-repair.php">Water Heater Repair & Replacement</a>
+										<a class="dropdown-item" href="/pages/services/drain-cleaning.php">Drain Cleaning</a>
 									</div>
 								</li>
 								<li class="nav-item dropdown pl-4 pl-md-0 ml-0 ml-md-4 d-none d-lg-block">
@@ -64,6 +66,9 @@ include("php/page-info.php");
 										<a class="dropdown-item" href="/pages/services/emergency-services.php">Emergency Services</a>
 										<a class="dropdown-item" href="/pages/services/plumbing-repairs.php">Repairs</a>
 										<a class="dropdown-item" href="/pages/services/water-heater-installation.php">Water Heater Installation</a>
+										<a class="dropdown-item" href="/pages/services/water-heater-repair.php">Water Heater Repair & Replacement</a>
+										<a class="dropdown-item" href="/pages/services/drain-cleaning.php">Drain Cleaning</a>
+
 									</div>
 								</li>
 								<li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4 d-block d-lg-none">
