@@ -21,23 +21,30 @@
                         <h1 id="contactUsHeadText">Contact Us</h1>
                     </div>
                     <div>
-                        <h3 class="servicesSubTitles">Your Trusted Partner for Concrete Solutions</h3>
+                        <h3 class="servicesSubTitles">Your Trusted Partner for Plumbing Solutions</h3>
                         <p class="contactUsTexts">
-                            If you’re looking for expert installation of a concrete walkway, driveway, or patio, you’ve come to the right place. 
-                            Our team of skilled, professional contractors is fully equipped to handle all your concrete needs efficiently and effectively. 
-                            If you currently have an asphalt driveway but are considering upgrading to concrete, we’re here to help.
-                            With our expert concrete cutting and driveway services, we’ll deliver the results you’re looking for.
+                            Have a plumbing issue that just can't wait? 
+                            <br>
+                            Whether it’s a water heater emergency, burst pipe, clogged drain, or you’re planning a plumbing upgrade, Detroit Emergency Plumbing is here to help. We proudly serve Detroit and surrounding 
+                            Metro Detroit communities with fast, reliable, and professional plumbing services when you need us most.
+                            Getting in touch is easy. 
+                            <br>
+                            Our team is standing by to answer your questions, schedule service, or dispatch an emergency plumber right away.
                         </p>
-                        <p class="contactUsTexts">
-                            At Ann Arbor Concrete, we encourage you to discover what sets us apart. 
-                            When you want reliable, affordable, and high-quality concrete work, our experienced team is the one to trust.
-                            We believe in giving our customers full value for their investment. That’s why we only hire dependable, seasoned contractors who take pride in their craftsmanship. 
-                            Their dedication and expertise have helped us earn our reputation as one of Metro Detroit's most trusted concrete companies. 
-                            Whether your project is big or small, our team is ready to get the job done right.
-                            Still unsure if we’re the right choice? Let us prove it. Contact us today for a free quote. 
-                            No matter the scope of your project, we’re ready to outmatch the competition. 
-                            At Ann Arbor Concrete, your satisfaction is our priority.
+                        <h3 class="servicesSubTitles mt-5">Business Hours</h3>
+                        <p class="contactUsTexts text-center">
+                            Monday – Saturday: 7:00 AM – 7:00 PM
+                            <br>
+                        <h3 class="servicesSubTitles mt-5">Emergency Services: Available 24/7</h3>
+                        <p class="contactUsTexts text-center">
+                            Need immediate service? Give us a call:
+                            <br>
+                            (901) 290-XXXX
+                            <br>
+                            We offer same-day service and emergency response across Detroit.
                         </p>
+
+
                     </div>
                 </div>
                 <div class="col-lg-4 d-none d-xl-block">

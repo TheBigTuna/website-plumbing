@@ -54,7 +54,8 @@ include("php/page-info.php");
 									<a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Services</a>
 									<div class="dropdown-menu">
 										<a class="dropdown-item" href="/pages/services/emergency-services.php">Emergency Services</a>
-										<a class="dropdown-item" href="/pages/services/emergency-services.php">Repairs</a>
+										<a class="dropdown-item" href="/pages/services/emergency-services.php">Repairs</a>										<a class="dropdown-item" href="/pages/services/emergency-services.php">Repairs</a>
+										<a class="dropdown-item" href="/pages/services/water-heater-installation.php">Water Heater Installation</a>
 									</div>
 								</li>
 								<li class="nav-item dropdown pl-4 pl-md-0 ml-0 ml-md-4 d-none d-lg-block">
@@ -62,18 +63,19 @@ include("php/page-info.php");
 									<div class="dropdown-menu">
 										<a class="dropdown-item" href="/pages/services/emergency-services.php">Emergency Services</a>
 										<a class="dropdown-item" href="/pages/services/plumbing-repairs.php">Repairs</a>
+										<a class="dropdown-item" href="/pages/services/water-heater-installation.php">Water Heater Installation</a>
 									</div>
 								</li>
 								<li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4 d-block d-lg-none">
 									<a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Service Area</a>
 									<div class="dropdown-menu">
-										<a class="dropdown-item" href="/pages/services/concrete-stamped.php">Stamped Concrete</a>
+										<a class="dropdown-item" href="/pages/service-area/service-area-detroit.php">Detroit</a>
 									</div>
 								</li>
 								<li class="nav-item dropdown pl-4 pl-md-0 ml-0 ml-md-4 d-none d-lg-block">
 									<a class="nav-link dropdown-toggle">Service Area</a>
 									<div class="dropdown-menu">
-										<a class="dropdown-item" href="/pages/services/concrete-stamped.php">Stamped Concrete</a>
+										<a class="dropdown-item" href="/pages/service-area/service-area-detroit.php">Detroit</a>
 									</div>
 								</li>
 								<li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">

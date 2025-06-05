@@ -2,3 +2,5 @@
 .htaccess
 
 resources/connection.php
+
+README.md
